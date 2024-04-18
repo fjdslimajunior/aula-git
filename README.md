@@ -14,4 +14,4 @@ Sanando dúvidas.
 
 - [x] você adiciona as novas funcionalidade ao seu projeto em produção
 
-- [xgit] você quer deletar a branch da nova funcionalidade, depois de aplicar em seu porojeto.
+- [x] você quer deletar a branch da nova funcionalidade, depois de aplicar em seu porojeto.

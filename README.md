@@ -29,6 +29,7 @@ Sanando dúvidas.
 - gut checkout 'nome da nova branch criada que será usada'
 - git branch -d login (deleta a branch especificada)
 - git merge 'nome da branch que será unida'
+- git config credential.helper store (deixa de solicitar autentição)
 
 
 > Credits > Rocketseat - Mayk Brito

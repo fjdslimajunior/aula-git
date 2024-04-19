@@ -19,16 +19,22 @@ Sanando dúvidas.
 # COMMANDS
 - git init
 - git add
-- git commit
+- git commit -m
+- git commit -am 'adiciona e commita em um so comando'
 - git log
 - git status
 - git show 'numero do commit'
 - git show
-- git branch (lista as branchs)
+- git push 'manda as alteração depois do commit para a nuvem'
+- git branch 'lista as branchs'
 - git branch 'nome de uma nova funcionalidade ou branch nova.'
-- gut checkout 'nome da nova branch criada que será usada'
+- git checkout -b "branch nova" 'similar ao git branch'
+- git checkout 'nome da nova branch criada que será usada'
+- git checkout "key" -- "nome do arquivo que sera recuperado"
 - git branch -d login (deleta a branch especificada)
 - git merge 'nome da branch que será unida'
-
+- git config credential.helper store (deixa de solicitar autentição)
+- git clone "url" (clona o projeto já criado) 
+- git pull
 
 > Credits > Rocketseat - Mayk Brito

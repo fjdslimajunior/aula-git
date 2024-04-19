@@ -33,8 +33,6 @@ Sanando dúvidas.
 - git checkout "key" -- "nome do arquivo que sera recuperado"
 - git branch -d login (deleta a branch especificada)
 - git merge 'nome da branch que será unida'
-- git config credential.helper store (deixa de solicitar autentição)
-- git clone "url" (clona o projeto já criado) 
-- git pull
+
 
 > Credits > Rocketseat - Mayk Brito
